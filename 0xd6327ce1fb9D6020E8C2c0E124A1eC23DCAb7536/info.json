@@ -1,0 +1,32 @@
+{
+    "name": "CUMINU",
+    "website": "http://cuminu.io/",
+    "description": "CUMINU is the developer of Cummuniti, a decentralised 18+ platform",
+    "explorer": "https://etherscan.io/",
+    "research": "",
+    "symbol": "CUMINU",
+    "type": "token",
+    "decimals": 18,
+    "status": "active",
+    "tags": [
+        "staking-native"
+    ],
+    "links": [
+        {
+            "name": "github",
+            "url": ""
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/CumInuToken"
+        },
+        {
+            "name": "reddit",
+            "url": ""
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://cuminu.io/cuminu-whitepaper.pdf"
+        }
+    ]
+}
